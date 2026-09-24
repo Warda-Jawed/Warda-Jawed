@@ -3,7 +3,7 @@
 
   <h1>Hello!🌷</h1>
 
-  <p>Welcome to my little corner of GitHub.</p>
+  <p>Welcome to my little corner.</p>
 
   <p>🌸 &nbsp; 🌼 &nbsp; 🌿 &nbsp; 🌼 &nbsp; 🌸</p>
 </div>
